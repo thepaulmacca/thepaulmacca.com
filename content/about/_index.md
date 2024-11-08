@@ -1,11 +1,12 @@
 ---
 title: 'About'
+comments: false
 toc: false
 ---
 
 Welcome to my blog! 👋
 
-* I am a Senior DevOps Consultant at [Ensono](https://www.ensono.com/gb/)
+* I am a **Senior DevOps Consultant** at [Ensono](https://www.ensono.com/gb/)
 * Previously I was a DevOps Engineer at [Coats Digital](https://www.coatsdigital.com/en/)
 
 * 📫 How to reach me:

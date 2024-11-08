@@ -5,7 +5,7 @@
     <description>Recent content in Kubernetes on Paul McDonald</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Oct 2024 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="http://localhost:1313/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
     <item>
       <title>Linting Helm Charts with Chart-Testing</title>
       <link>http://localhost:1313/blog/linting-helm-charts/</link>
-      <pubDate>Fri, 18 Oct 2024 14:30:00 +0000</pubDate>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/linting-helm-charts/</guid>
       <description>
@@ -396,7 +396,7 @@
     <item>
       <title>Kubernetes Certification Resources</title>
       <link>http://localhost:1313/blog/kubernetes-certification/</link>
-      <pubDate>Sun, 13 Oct 2024 14:30:00 +0000</pubDate>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/blog/kubernetes-certification/</guid>
       <description>

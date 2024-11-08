@@ -91,14 +91,14 @@ params:
       display: hover
 
   comments:
-    enable: false
+    enable: true
     type: giscus
 
     giscus:
-      repo: <repository>
-      repoId: <repository ID>
-      category: <category>
-      categoryId: <category ID>
+      repo: thepaulmacca/thepaulmacca.com
+      repoId: R_kgDONMTPrw
+      category: General
+      categoryId: DIC_kwDONMTPr84CkF1g
 
 
 

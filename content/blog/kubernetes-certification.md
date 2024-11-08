@@ -1,6 +1,10 @@
 ---
 title: Kubernetes Certification Resources
-date: 2024-10-13 14:30:00 +0000
+date: 2024-10-13
+authors:
+  - name: Paul McDonald
+    link: https://github.com/thepaulmacca
+    image: https://github.com/thepaulmacca.png
 tags:
   - Kubernetes
   - Certifications

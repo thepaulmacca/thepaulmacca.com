@@ -1,6 +1,10 @@
 ---
 title: Linting Helm Charts with Chart-Testing
-date: 2024-10-18 14:30:00 +0000
+date: 2024-10-18
+authors:
+  - name: Paul McDonald
+    link: https://github.com/thepaulmacca
+    image: https://github.com/thepaulmacca.png
 tags:
   - Kubernetes
   - Helm
