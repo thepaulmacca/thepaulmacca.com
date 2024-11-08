@@ -1,5 +1,5 @@
 baseURL: https://thepaulmacca.com/
-languageCode: en-us
+languageCode: en
 title: Paul McDonald
 
 enableRobotsTXT: true
@@ -60,7 +60,7 @@ params:
 
   footer:
     enable: true
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: true
     width: full
 

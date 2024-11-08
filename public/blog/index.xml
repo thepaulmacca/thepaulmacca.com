@@ -4,7 +4,7 @@
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on Paul McDonald</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
