@@ -100,17 +100,3 @@ params:
       enable: true
       # hover | always
       display: hover
-
-  comments:
-    enable: true
-    type: giscus
-
-    giscus:
-      repo: thepaulmacca/thepaulmacca.com
-      repoId: R_kgDONMTPrw
-      category: General
-      categoryId: DIC_kwDONMTPr84CkF1g
-
-
-
-
