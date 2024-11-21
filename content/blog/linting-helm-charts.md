@@ -10,9 +10,9 @@ tags:
   - Helm
 ---
 
-When developing charts, it can be easy to make a mistake with YAML indentation or miss something out. Linting them should be considered a key part of your chart development and testing processes.
+When developing Helm charts, it can be easy to make a mistake with YAML indentation or miss something out. Linting them should be considered a key part of your chart development and testing processes.
 
-In this post, I'm going to talk about the Helm [chart-testing](https://github.com/helm/chart-testing) tool, but first lets look at the linter that's included with the Helm client.
+In this post, I'm going to talk about the Helm `chart-testing` tool, but first lets look at the linter that's included with the Helm client.
 
 ## Helm Lint
 
@@ -67,7 +67,7 @@ helm lint charts/demo --strict --kube-version 1.31
   Please be aware of the [supported version skew policy](https://helm.sh/docs/topics/version_skew/#supported-version-skew) between Helm and Kubernetes versions if you're wondering why it's not working as intended.
 {{< /callout >}}
 
-That's about as far as you can go with the `helm lint` command. Now let's turn our attention to the chart-testing tool, `ct`.
+That's about as far as you can go with the `helm lint` command. Now let's turn our attention to the `chart-testing` tool, `ct`.
 
 ## Chart-Testing
 
